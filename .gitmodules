@@ -1,0 +1,3 @@
+[submodule "zensical-get-started"]
+	path = zensical-get-started
+	url = https://github.com/zen4215/zensical-get-started.git
